@@ -1,2 +1,3 @@
 # Calculator
-A simple calculator I programmed using C++. 
+
+Simple calculator using C++, and some of the concepts I learned within Codedex. 
