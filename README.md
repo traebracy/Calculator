@@ -1,4 +1,4 @@
-# Calculator
+# Numeric Calculator
 
 This is a simple calculator program built in C++.
 
